@@ -1,0 +1,117 @@
+{
+    "Cakes":[
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/v20210326105752/fudge-brownie-cake_1.jpg",
+        "productTitle": "Fudge Brownie cake",
+        "description": "A delicious and decadent Brownie Cake made from scratch.",
+        "price": "₹699"
+      },
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/v20210326105811/red-velvet-fresh-cream-cake_1.jpg",
+        "productTitle": "Red Velvet Cake",
+        "description": "A Red Velvet Cake is pure delight and offset by a white Cream Cheese.",
+        "price": "₹949"
+      },
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/creamy-vanilla-fruit-cake_1.jpg",
+        "productTitle": "Creamy Vanilla Fruit Cake ",
+        "description": " A simple, moist sponge cake layered with fresh cream and fresh fruits.",
+        "price": "₹949"
+      },
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/pink-strawberry-cream-cake_1.jpg",
+        "productTitle": "Pink Strawberry Cream Cake ",
+        "description": "A fluffy vanilla cake is loaded with fresh strawberries and a rich whipped cream.",
+        "price": "₹649"
+      },
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/chocolate-caramel-fudge-cake_1.jpg",
+        "productTitle": "Chocolate Caramel Fudge Cake",
+        "description": "Salted caramel chocolate fudge cake filled with salted caramel.",
+        "price": "₹649"
+      },
+      {
+        "productImage": "https://i7.fnp.com/images/pr/l/heavenly-oreo-cookie-cake_1.jpg",
+        "productTitle": "Heavenly Oreo Cookie Cake",
+        "description": "Layers of chocolate pudding, cool whip and cream cheese.",
+        "price": "₹899"
+      }
+    ],
+    "Ice creames":[
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1032706.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Vanilla Ice Cream V",
+        "description": "No-cook, no eggs, made with half-and-half and cream.",
+        "price": "₹249"
+      },
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F435381.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Ice Cream Base",
+        "description": "A custard-style ice cream base that any number of flavors can be added to.",
+        "price": "₹199"
+      },
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5571405.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Vegan Horchata Ice Cream",
+        "description": "Flavorful rice milk is mixed with coconut cream then churned to give delight.",
+        "price": "₹349"
+      },
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1586127.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Super Lemon Ice Cream",
+        "description": "Fresh Lemon Ice Cream is like no other ice cream you’ve ever had.",
+        "price": "₹299"
+      },
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2170022.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Matcha Green Tea Ice Cream",
+        "description": "The Japanese green tea ice cream is not as creamy, It is sweet",
+        "price": "₹399"
+      },
+      {
+        "productImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F815784.jpg&w=272&h=272&c=sc&poi=face&q=85",
+        "productTitle": "Strawberry Ice Cream",
+        "description": "Strawberry ice cream is a flavor of ice cream made with strawberry.",
+        "price": "199"
+      }
+
+    ],
+    "Drinks":[
+        {
+            "productTitle": "OLD PASSIONED",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/passioned-img-6-555x712.jpg",
+            "description": "An Orange and Passionfruit drink Sparkling",
+            "price": "₹549"
+          },
+          {
+            "productTitle": "PINO COLADA",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/pino-img-5-555x712.jpg",
+            "description": "A pina colada inspired drink Still, coconut, pineapple, and cream.",
+            "price": "₹549"
+          },
+          {
+            "productTitle": "NOJITO",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/nojit-img-5-555x712.jpg",
+            "description": "A mojito inspired drink. Sparkling, lemon, lime and mint.",
+            "price": "₹449"
+          },
+          {
+            "productTitle": "MOCKIRI",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/mojiri-img-6-555x712.jpg",
+            "description": "A strawberry daiquiri inspired drink Sparkling, strawberry and lime.",
+            "price": "₹599"
+          },
+          {
+            "productTitle": "MIX OF MOCKIRI AND PINO",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/mockiri-pino-555x712.jpg",
+            "description": "A pina colada inspired drink Still, coconut, pineapple and cream.",
+            "price": "₹399"
+          },
+          {
+            "productTitle": "MIX OF NOJITO AND PASSIONED",
+            "productImage": "https://themocktailcompany.com/wp-content/uploads/2019/07/nojito-passioned-555x712.jpg",
+            "description": "An Orange and Passionfruit drink Sparkling",
+            "price": "499"
+          }
+    ]
+}

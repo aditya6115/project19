@@ -1,0 +1,10 @@
+<ul class="list-group text-center m-5">
+    <li class="list-group-item"><i class="fs-5">Id : {{userObj.id}}</i></li>
+    <li class="list-group-item"><i class="fs-5">Email :  {{userObj.email}}</i></li>
+    <li class="list-group-item"><i class="fs-5">Name :  {{userObj.name}}</i></li>
+    <li class="list-group-item"><i class="fs-5">profile pic :</i> <br> <img src="{{userObj.profilepic}}" alt=""></li>
+    <li class="list-group-item"><i class="fs-5">Address : </i>  <i><br> street: {{userObj.address.street}} <br> suite: {{userObj.address.suite}} <br> city: {{userObj.address.city}} <br> zipcode: {{userObj.address.zipcode}} <br> lat: {{userObj.address.geo.lat}}, long: {{userObj.address.geo.lng}} </i></li>
+    <li class="list-group-item"><i class="fs-5">Profession : {{userObj.profession}}</i></li>
+    <li class="list-group-item"><i class="fs-5">Mobile no : {{userObj.mobileno}}</i></li>
+  </ul>
+

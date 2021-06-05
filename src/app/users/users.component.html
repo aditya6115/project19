@@ -1,0 +1,27 @@
+<div class="text-white">
+    <h3 class="text-center mt-3">Users</h3>
+    <hr>
+    </div>
+    <div class="row">
+        <div class="col-sm-2 col-md-3"></div>
+        <div class="col-sm-8 col-md-6">
+            <table class="table text-dark text-center mt-3 mb-5 bg-white">
+                <thead>
+                  <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Email</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let usersObj of users">
+                    <th scope="row"><button class="btn btn-sm bg-secondary text-white shadow" (click)="onSelectId(usersObj.id)">{{usersObj.id}}</button></th>
+                    <td>{{usersObj.email}}</td>
+                  </tr>
+            
+                </tbody>
+              </table>
+    
+        </div>
+        <div class="col-sm-2 col-md-3"></div>
+    </div>
+    

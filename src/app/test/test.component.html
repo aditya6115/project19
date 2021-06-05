@@ -1,0 +1,43 @@
+<table class="table table-striped text-dark mt-5 bg-warning">
+    <thead>
+        <h4 class="m-2">Colors</h4>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Year</th>
+        <th scope="col" class="text-center">Color</th>
+        <th scope="col" class="tect-center ms-5">Pantone value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let colorObj of colors.data">
+        <th scope="row">{{colorObj.id}}</th>
+        <td>{{colorObj.name}}</td>
+        <td>{{colorObj.year}}</td>
+        <td style= "background-color:{{colorObj.color}}"></td>
+        <td class="ms-5">{{colorObj.pantone_value}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table class="table text-dark table-striped mt-5 bg-warning mb-5">
+    <thead>
+      <h4>Users</h4>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Username</th>
+        <th scope="col">Email</th>
+        <th scope="col">Address</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let userObj of users">
+        <th scope="row">{{userObj.id}}</th>
+        <td>{{userObj.name}}</td>
+        <td>{{userObj.username}}</td>
+        <td>{{userObj.email}}</td>
+        <td>street: {{userObj.address.street}} <br> suite: {{userObj.address.suite}} <br> city: {{userObj.address.city}} <br> zipcode: {{userObj.address.zipcode}} <br> latitude: {{userObj.address.geo.lat}}, longitude: {{userObj.address.geo.lng}} </td>
+      </tr>
+    </tbody>
+  </table>

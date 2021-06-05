@@ -1,0 +1,38 @@
+ [
+  {
+    "productTitle": "OnePlus 9 Pro 5G",
+    "productImage": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/home/in/nv/9pMorningMist.jpg",
+    "description": "Hasselblad Camera for Mobile120 Hz Fluid Display Qualcomm®Snapdragon™ 888 and 5G Premium Design",
+    "price": "₹64999"
+  },
+  {
+    "productTitle": "OnePlus 8T",
+    "productImage": "https://oasis.opstatics.com/etc.clientlibs/oasis/clientlibs/clientlib-site/resources/images/header/pc/8T.jpg",
+    "description": "Warp Charge 65120 Hz Fluid DisplayQualcomm® Snapdragon™ 865 and 5G MP Quad Camera",
+    "price": "₹42999"
+  },
+  {
+    "productTitle": "OnePlus Nord",
+    "productImage": "https://oasis.opstatics.com/etc.clientlibs/oasis/clientlibs/clientlib-site/resources/images/header/pc/Nord.jpg",
+    "description": "Quad camera, OIS 48 MP Sony IMX586 32 MP & ultra wide selfie cameras 90 Hz 5G & up to 12 GB RAM",
+    "price": "₹27999"
+  },
+  {
+    "productTitle": "OnePlus 9 5G",
+    "productImage": "https://www.oneplus.in/content/dam/oasis/page/2021/9-series/spec-image/9/Arcticsky_9.png",
+    "description": "OnePlus 9 5G Hasselblad Camera for Mobile Fast and Smooth Performance Ultra Fast Charging Premium Design",
+    "price": "₹49999"
+  },
+  {
+    "productTitle": "OnePlus 7T Pro",
+    "productImage": "https://www.oneplus.in/content/dam/oasis/page/store/phone/compare/7t-pro-Haze%20Blue.png",
+    "description": "Resolution: 3120 x 1440 Pixels 516 PPI Aspect Ratio: 19.5:9 Type: AMOLED Support sRGB, Display P3 Cover Glass: 3D Corning® Gorilla® Glass",
+    "price": "₹39999"
+  },
+  {
+    "productTitle": "OnePlus 9R 5G",
+    "productImage": "https://www.oneplus.in/content/dam/oasis/page/2021/9-series/spec-image/9r/Lake-Blue-gallery..png",
+    "description": "Qualcomm Snapdragon 870 and 5G High-end Design 120 Hz Fluid AMOLED Display Warp Charge 65",
+    "price": "₹39999"
+  }
+]
